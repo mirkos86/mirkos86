@@ -6,6 +6,9 @@ I have also published a Mathematica repository for my personal physics project.
 For a living, I manage my family company, a pretty big seasonal hospitality business. 
 That is also poducing a custom app for take away orders, whose development I am supervising.
 
+I also have a blog, which has by now little to do with our main line of business, since I use it mostly for existential and philosophical reflections:
+https://pasticceriadentoni.shop/category/english/
+
 You can easily reach me on LinkedIn (link under my picture) or here.
 
 <!---
