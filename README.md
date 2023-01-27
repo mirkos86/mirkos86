@@ -1,4 +1,4 @@
-- I am Mirko Serino, a high energy physicist by training. I am from Italy.
+I am Mirko Serino, a high energy physicist by training. I am from Italy.
 I am interested in coding, particularly data science and machine learning. To start off, I attended and graduated from the Udacity Intro to Machine Learning with Pytorch course.
 I am currently studying for the freeCodeCam curriculum. 
 I have also published a Mathematica repository for my personal physics project. 
