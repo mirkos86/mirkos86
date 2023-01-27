@@ -1,7 +1,10 @@
 - I am Mirko Serino, a high energy physicist by training. I am from Italy.
-I am interested in data science and machine learning and, to start off, I’m currently attending a Udacity Intro to Machine Learning with Pytorch course.
-I have also published a Mathematica repository for my personal physics prject. Finally, I manage my family company, which is a pretty big bar, cake and ice cream 
-shop, but that does ha not produced any code, at least so far :-)
+I am interested in coding, particularly data science and machine learning. To start off, I attended and graduated from the Udacity Intro to Machine Learning with Pytorch course.
+I am currently studying for the freeCodeCam curriculum. 
+I have also published a Mathematica repository for my personal physics project. 
+
+For a living, I manage my family company, a pretty big seasonal hospitality business. 
+That is also poducing a custom app for take away orders, whose development I am supervising.
 
 You can easily reach me on LinkedIn (link under my picture) or here.
 
