@@ -8,8 +8,7 @@ That is also poducing a custom app for take away orders, whose development I am 
 
 I also have a blog underway. It started as a business publication on my company's website and then decoupled from the main line of business, 
 because I started to use it mostly for existential and philosophical reflections since, in order to keep myself engaged, I rebuked the business kind-of 
-talk: https://mirkosmill.blogspot.com/ The name is a tribute to the book _Hamlet's Mill_, which explores the meaning of ancestral myths: 
-https://www.amazon.com/Hamlets-Mill-Investigating-Knowledge-Transmission/dp/0879232153/ref=sr_1_1?keywords=hamlet%27s+mill&s=books&sr=1-1
+talk: https://mirkosmill.blogspot.com/ The name is a tribute to the book _Hamlet's Mill_, which explores the meaning of ancestral myths.
 
 
 You can easily reach me on LinkedIn (link under my picture) or via email.
