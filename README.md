@@ -11,7 +11,7 @@ because I started to use it mostly for existential and philosophical reflections
 talk: https://mirkosmill.blogspot.com/ The name is a tribute to the book _Hamlet's Mill_, which explores the meaning of ancestral myths.
 
 
-You can easily reach me on LinkedIn (link under my picture) or via email.
+You can easily reach me on LinkedIn or via email.
 
 <!---
 mirkos86/mirkos86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
