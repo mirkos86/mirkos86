@@ -3,13 +3,8 @@ I am from Italy, a high energy physicist by training: https://inspirehep.net/lit
 I am very interested in coding, particularly data science and machine learning. To start off, I attended and graduated from the Udacity Intro to Machine 
 Learning with Pytorch course. I am currently studying the freeCodeCamp curriculum. 
 
-For a living, I manage my family company, a pretty big seasonal hospitality business. 
-That is also poducing a custom app for take away orders, whose development I am supervising.
-
-I also have a blog underway. It started as a business publication on my company's website and then decoupled from the main line of business, 
-because I started to use it mostly for existential and philosophical reflections since, in order to keep myself engaged, I rebuked the business kind-of 
-talk: https://mirkosmill.blogspot.com/ The name is a tribute to the book _Hamlet's Mill_, which explores the meaning of ancestral myths.
-
+For a living, I manage my family company, a hospitality business. 
+That is also producing a custom app for take away orders, whose development I am supervising.
 
 You can easily reach me on LinkedIn or via email.
 
